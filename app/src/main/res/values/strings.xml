@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MainFragment</string>
+
+    <string name="tab_text">HOME</string>
+
+    <!--年會下方TAB文字-->
+    <string-array name="main_tab_annual_title_array">
+        <item>HOME</item>
+        <item>日程表</item>
+        <item>現正發表中</item>
+        <item>我的行事曆</item>
+        <item>搜尋</item>
+    </string-array>
+
+    <!--年會專區-->
+    <string name="annual_meeting">年會專區</string>
+    <string name="annual_now_news">大會最新消息</string>
+    <string name="annual_mycalender">我的行事曆</string>
+    <string name="annual_QRcode">報到 QRcode</string>
+    <string name="annual_now_speech">現正發表中</string>
+    <string name="annual_speech">大會議程</string>
+    <string name="annual_calender">日程表</string>
+    <string name="annual_guessinfo">外賓資訊</string>
+    <string name="annual_search">搜尋</string>
+    <string name="annual_newsinfo">大會資訊</string>
+    <string name="annual_map">會場地圖</string>
+    <string name="annual_sort">分類搜尋</string>
+
+    <!--年會toolbar-->
+    <string name="annual_tool_bar_filter">filter</string>
+    <string name="annual_tool_bar_calender">calender</string>
+    <string name="annual_tool_bar_list">list</string>
+
+    <!--大會專區最新消息-->
+    <string name="annual_general_date">2017.05.30</string>
+    <string name="annual_general_message">大會專區最新消息01</string>
+
+    <!--我的行事曆-->
+    <string name="annual_calender_time">0800 ~ 0900</string>
+    <string name="annual_calender_surgical">消化外科</string>
+    <string name="annual_calender_message">年輕主治醫師傑出研究/住院醫師優秀論文獎</string>
+    <string name="annual_calender_class">國防3樓32教室</string>
+
+    <!--外賓專區-->
+    <string name="annual_guess_name">Abbas E.Abbas</string>
+    <string name="annual_guess_position">Professor</string>
+    <string name="annual_guess_datetime">2017/03/18 1300 ~ 1400</string>
+    <string name="annual_guess_speech">Adapting Robotics to Advanced Lung Surgery. What Does it Add?</string>
+    <string name="annual_guess_class">國防3樓31教室</string>
+    <string name="annual_guess_time">時間</string>
+    <string name="annual_guess_place">地點</string>
+    <string name="annual_guess_host">座長</string>
+    <string name="annual_guess_school">台大</string>
+    <string name="annual_guess_host_name">李章銘</string>
+    <string name="annual_guess_education_training">EDUCATION AND TRAINING:</string>
+    <string name="annual_guess_education_training_message1">(Chronological order)</string>
+    <string name="annual_guess_education_training_message2">Sep 1981 - Dec 1987</string>
+    <string name="annual_guess_education_training_message3">School of Medicine Ain-Shams</string>
+    <string name="annual_guess_education_training_message4">University Cairo, Egypt</string>
+    <string name="annual_guess_education_training_message5">June 1988 - June 1994</string>
+    <string name="annual_guess_education_training_message6">School of Medicine Ain-shams University Cairo, Egypt</string>
+    <string name="annual_guess_education_training_message7">GRADUATE MEDICAL EDUCATION</string>
+    <string name="annual_guess_education_training_message8">July, 1994 - June, 1996</string>
+    <string name="annual_guess_education_training_message9">Internship, General Surgery</string>
+    <string name="annual_guess_education_training_message10">Pinnacle health System Harrisburg, PA</string>
+
+</resources>

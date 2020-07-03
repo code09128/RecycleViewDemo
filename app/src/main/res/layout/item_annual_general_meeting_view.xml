@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/tab_bg_gray_start"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/general_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:text="@string/annual_general_date"/>
+    <TextView
+        android:id="@+id/general_news_info"
+        android:layout_below="@+id/general_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="@string/annual_general_message"/>
+
+    <include
+        layout="@layout/view_horizontalline_white_slim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/general_news_info"/>
+
+</RelativeLayout>
